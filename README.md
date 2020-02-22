@@ -5,5 +5,5 @@ We analyze the dataset for mobile apps in Google Play and App Store in order to 
 
 ## References
 1. "Python for Data Science: Fundamentals" Dataquest (2019) [[link](https://app.dataquest.io/course/python-for-data-science-fundamentals)].
-2. L. Gupta, "Google Play Store Apps" Kaggle (2019) [link](https://www.kaggle.com/lava18/google-play-store-apps)
-3. Ramanathan, "Mobile App Store (7200 apps)" Kaggle (2018) [link](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
+2. L. Gupta, "Google Play Store Apps" Kaggle (2019) [[link](https://www.kaggle.com/lava18/google-play-store-apps)].
+3. Ramanathan, "Mobile App Store (7200 apps)" Kaggle (2018) [[link](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)].
